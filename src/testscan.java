@@ -6,6 +6,7 @@ public class testscan {
         Scanner scanner =new Scanner(System.in);
         String myString = scanner.next();
 
+
         System.out.println("My string:"+myString);
     }
 }
