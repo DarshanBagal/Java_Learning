@@ -12,5 +12,7 @@ public class task1 {
         System.out.println("String:"+s);
         System.out.println("Double:"+d);
         System.out.println("Integer:"+i);
+
+        scanner.close();
     }
 }
